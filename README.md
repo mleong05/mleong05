@@ -22,6 +22,7 @@
   + Manipulación y montaje de ordenadores (Torre, portátiles)
   + Modificaciones de Software a consolas y otros dispositivos (Homebrew)
 + ESO cursada en el IES Pedro de Valdivia (Villanueva de la Serena)
++ Título de Inglés B2, examen libre (Escuela Oficial de Idiomas)
 + SMR cursado en el IES Donoso Cortés (Don Benito)
 + Cursando DAM en el IES Castelar (Badajoz)
 
@@ -49,3 +50,4 @@
 + Hablando también de Apple, con ellos tengo un amor odio extraño, porque cuando las cosas de los dispositivos Apple van bien, VAN MUY BIEN, pero entre los precios, el ecosistema cerrado (incluyendo SO) me limito a no tentarme mucho con sus dispositivos.
   + Los dispositivos de Apple que tengo ahora mismo son un iPhone 13 y unos Airpods Pro de segunda generación, mi tío me comparte Apple Music familiar y la verdad es que estoy muy contento con éstos dispositivos. No descarto el cambio a Android de nuevo (mi primer móvil fue un Samsung Galaxy A5 2017). De momento no considero ampliar "mi ecosistema".
 + El mundo de los teclados y de los teclados custom siempre me ha interesado bastante, aunque no pueda adentrarme mucho físicamente ya que no tengo ni idea de soldar, pero bueno "It is what it is".
++ Como mencioné antes, era algo autodidacta con la informática antes de cursar SMR y aparte de los cursos de robótica, pero algo que he aprendido muchísimo "by my own" es el inglés, el nivel de la escuela y del instituto es muy básico, y personalmente, considero que sin saber inglés te pierdes muchas cosas y te cierras muchas puertas.
