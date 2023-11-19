@@ -9,7 +9,7 @@
 + Shell Script 🐚
 + PowerShell Script 
 + Uso general de entornos de desarrollo
-+ Uso de herramientas para desarrollar en directorios
++ Uso de herramientas para desarrollar en repositorios
 + Mejor uso de GNU/Linux, dejar de lado Windows (Sorry, Microsoft)
 
 ## 🎓 Estudios, conocimientos y títulos
