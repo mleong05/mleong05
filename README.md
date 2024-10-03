@@ -4,8 +4,8 @@
 
 ## 🌱 Estoy aprendiendo...
 
-+ Java ☕(IDE: IntelliJ)
-+ HTML, CSS (IDE: VSCode)
++ Java, Kotlin ☕(IDE: IntelliJ, Android Studio)
++ HTML, CSS, PHP (IDE: VSCode)
 + Shell Script 🐚
 + PowerShell Script 
 + Uso general de entornos de desarrollo
@@ -24,7 +24,7 @@
 + ESO cursada en el IES Pedro de Valdivia (Villanueva de la Serena)
 + Título de Inglés B2, examen libre (Escuela Oficial de Idiomas)
 + SMR cursado en el IES Donoso Cortés (Don Benito)
-+ Cursando DAM en el IES Castelar (Badajoz)
++ Cursando 2º DAM en el IES Castelar (Badajoz)
 
 ## 🖥️ Componentes de mi PC
 + CPU: Intel i5 12400F
